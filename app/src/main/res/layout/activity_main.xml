@@ -25,5 +25,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Export to file" />
+
+        <TextView
+            android:id="@+id/contentUri"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
